@@ -8,7 +8,7 @@ You can contact me at support@cookiejarapps.com
 
 I maintain 2 browsers. Here's a table comparing them:
 
-|                  | SmartCookieWeb | BiscuitBrowser | 
+|                  | SmartCookieWeb | SmartCookieWeb-Preview | 
 | ---------------- | -------------- | -------------- | 
 | Browser Engine   | WebView        | GeckoView      | 
 | Update Frequency | Monthly        | Monthly        | 
@@ -21,7 +21,7 @@ I maintain 2 browsers. Here's a table comparing them:
 | VideoDL support  | Yes            | No             | 
 | Availability     | Most app stores| GitHub         | 
 | Min SDK          | 19 (4.4)       | 21 (5.0)       | 
-| Link | https://github.com/CookieJarApps/SmartCookieWeb | https://github.com/CookieJarApps/BiscuitBrowser |
+| Link | https://github.com/CookieJarApps/SmartCookieWeb | https://github.com/CookieJarApps/SmartCookieWeb-Preview |
 
 # Security bug bounty
 
