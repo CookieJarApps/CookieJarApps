@@ -1,28 +1,17 @@
-### CookieJarApps
+<a href="http://cookiejarapps.com"><img src="https://user-images.githubusercontent.com/44752343/112613474-0c339b00-8e18-11eb-8106-202c0c132715.png" width="150"></a>
+# CookieJarApps
 
-# Contact
+### :email: Contact
 
 You can contact me at support@cookiejarapps.com
 
-# Browsers
+### :computer: Browsers
 
-I maintain 2 browsers. Here's a table comparing them:
+[![SmartCookieWeb](https://github-readme-stats.vercel.app/api/pin/?username=cookiejarapps&repo=smartcookieweb)](https://github.com/cookiejarapps/smartcookieweb)
+[![SmartCookieWeb-Preview](https://github-readme-stats.vercel.app/api/pin/?username=cookiejarapps&repo=smartcookieweb-preview)](https://github.com/cookiejarapps/smartcookieweb-preview)
 
-|                  | SmartCookieWeb | SmartCookieWeb-Preview | 
-| ---------------- | -------------- | -------------- | 
-| Browser Engine   | WebView        | GeckoView      | 
-| Update Frequency | Monthly        | Monthly        | 
-| Add-on support   | UserScripts    | Yes            | 
-| Telemetry        | No             | No             | 
-| Ad blocking      | Yes            | With add-on    | 
-| Tracker blocking | Yes            | With add-on    | 
-| Fork of...       | Lightning      | None           | 
-| Stable           | Yes            | No             | 
-| VideoDL support  | Yes            | No             | 
-| Availability     | Most app stores| GitHub         | 
-| Min SDK          | 19 (4.4)       | 21 (5.0)       | 
-| Link | https://github.com/CookieJarApps/SmartCookieWeb | https://github.com/CookieJarApps/SmartCookieWeb-Preview |
+### :bug: Bug reports
 
-# Security bug bounty
+Open an issue, email me or message me on Telegram to report a bug!
 
 Bug bounties are on offer for security bugs in the online services in my apps (e.g. add-ons store in BiscuitBrowser, reading mode translation in SmartCookieWeb). Please contact me for more info.
