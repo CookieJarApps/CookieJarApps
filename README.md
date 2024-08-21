@@ -13,5 +13,3 @@ You can contact me at support@cookiejarapps.com
 ### :bug: Bug reports
 
 Open an issue, email me or message me on Telegram to report a bug!
-
-Bug bounties are on offer for security bugs in the online services in my apps (e.g. add-ons store in BiscuitBrowser, reading mode translation in SmartCookieWeb). Please contact me for more info.
